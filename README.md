@@ -6,10 +6,6 @@ Experimental code accompanying:
 
 **PASA: Risk-Aware Privacy-Preserving Task Scheduling for Web-Scale Cloud-Edge Information Systems**
 
-Authors: Sicheng Wu, Xingbo Hui, Yijin Liu, Rui Zhou, Gaofeng Zhang, and Qingguo Zhou.
-
-Corresponding author: Qingguo Zhou — zhouqg@lzu.edu.cn
-
 ## Contents
 
 - `pasa_full_experiments.py`: synthetic workload generation, scheduling simulation, parameter sweeps, and auxiliary diagnostics.
